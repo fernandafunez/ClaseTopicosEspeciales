@@ -1,0 +1,22 @@
+{
+  "name": "tarea-ts-1.1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "start": "npx ts-node src/index.ts",
+    "start:1": "npx ts-node src/ejercicio1.ts",
+    "start:2": "npx ts-node src/ejercicio2.ts",
+    "start:3": "npx ts-node src/ejercicio3.ts",
+    "start:4": "npx ts-node src/ejercicio4.ts",
+    "start:5": "npx ts-node src/ejercicio5.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
