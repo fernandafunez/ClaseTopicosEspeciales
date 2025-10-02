@@ -9,6 +9,7 @@
 ## Tareas Entregadas
 
 1. **Tarea TS 1.1**: Primera tarea de la primera unidad
+2. **Tarea TS 1.2**: Segunda tarea de la primera unidad
 
 ## Instrucciones para Ejecutar
 
